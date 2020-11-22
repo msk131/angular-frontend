@@ -16,4 +16,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 High level Archtecture of the project:
 
-![alt text](https://github.com/msk131/angular-frontend/blob/master/img3.png)
+![alt text](https://github.com/msk131/angular-frontend/blob/master/img4.png)
