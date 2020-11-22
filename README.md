@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 High level Archtecture of the project:
 
-![alt text](https://github.com/msk131/angular-frontend/img.png)
+![alt text](https://github.com/msk131/angular-frontend/blob/master/img.png)
