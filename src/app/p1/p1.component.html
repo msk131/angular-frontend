@@ -32,7 +32,7 @@
         <label for="age">DOB</label>
         <input type="date" formControlName="dob" class="form-control"
 
-        [ngClass]="{ 'is-invalid': submitted && f.dob.errors }" placeholder="Enter your DOB from the HTML date picker">
+        [ngClass]="{ 'is-invalid': submitted && f.dob.errors }" placeholder="Enter your DOB in dd/mm/yyyy">
         <div *ngIf="submitted && f.dob.errors" class="invalid-feedback">
             <div *ngIf="f.dob.errors.required">DOB is required</div>
          </div>
