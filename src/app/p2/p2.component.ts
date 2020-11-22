@@ -14,7 +14,7 @@ export class P2Component implements OnInit {
 
    users: UserData[] =this.userService.getAllUsersData();
    displayedColumns: string[] = ['sno', 'name', 'age', 'dob'];
-  dataSource = new MatTableDataSource(this.users);
+  dataSource = new MatTableDataSource<UserData>(this.users);
   @ViewChild(MatPaginator) paginator: MatPaginator;
 
   ngOnInit() {
