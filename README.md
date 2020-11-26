@@ -14,6 +14,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-High level Archtecture of the project:
+## High level Archtecture of the project:
+
 
 ![alt text](https://github.com/msk131/angular-frontend/blob/master/img.png)
